@@ -10,6 +10,6 @@ Las propiedades que necesitas agregar son:
 Solo los p elementos que son descendientes del div elemento deben tener un fondo amarillo, texto rojo, un tamaño de fuente de 20 px y alineación al centro.
 
 
-### Self Check
-- Do the elements that contain the text "This should be styled" have the correct styles applied?
-- Do the elements that contain the text "This should be unstyled" have no styles applied?
+### Autoevaluacion
+- ¿Los elementos que contienen el texto «This should be styled» tienen aplicados los estilos correctos?
+- ¿Los elementos que contienen el texto «This should be unstyled» no tienen estilos aplicados?
