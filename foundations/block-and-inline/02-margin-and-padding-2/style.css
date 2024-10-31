@@ -1,5 +1,5 @@
 body {
-  background: #eee;
+  background: #363535;
   font-family: sans-serif;
 }
 
@@ -24,4 +24,30 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
+}
+/* Solucion */
+
+.card {
+  padding: 8px;
+}
+
+.title {
+  margin-bottom: 8px;
+  padding: 8px;
+  font-size: 16px;
+}
+
+.content {
+  padding: 16px 8px;
+  margin-bottom: 8px;
+}
+
+.button-container {
+  padding: 8px;
+  text-align: center;
+}
+button {
+  display: block;
+  margin: 0 auto;
+  padding: 8px 24px;
 }
