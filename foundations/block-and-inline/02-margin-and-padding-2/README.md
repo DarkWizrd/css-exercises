@@ -1,18 +1,20 @@
-# Margin and Padding #2
+# Margen y Padding #2
 
-This one is a little nicer looking, and a little closer to something you might see in the real world. You'll need to change a little more than just margin and padding to make it look exactly right.
+Este ejercicio tiene un aspecto un poco más agradable y se parece un poco más a algo que podrías ver en el mundo real. Necesitarás cambiar un poco más que solo el margen y padding para que se vea exactamente bien.
 
-## Desired outcome
-![desired outcome](./desired-outcome.png)
+## Resultado deseado
 
-### Self Check
-Use this section to check your work. On _these_ projects, your goal isn't to attain 100% pixel perfection, but to use the tools you've learned to get relatively close to the desired output.
+![resultado deseado](./desired-outcome.png)
 
-- There is 8px between the edge of the card and its content (the blue sections).
-- There is an 8px gap between each of the blue sections inside the card.
-- The title of the card uses a 16px font.
-- There are 8px between the title text and the edge of the title section.
-- The content section has 16px space on the top and bottom, and 8px on either side.
-- Everything inside the `.button-container` section is centered, and there is 8px padding.
-- The Big Button is centered on its own line.
-- The Big Button has 24px space on the sides, and 8px on top and bottom.
+### Autoevaluación
+
+Usa esta sección para verificar tu trabajo. En _estos_ proyectos, tu objetivo no es lograr una precisión de 100% en píxeles, sino usar las herramientas que has aprendido para acercarte al resultado deseado.
+
+- Hay 8px entre el borde de la tarjeta y su contenido (las secciones azules).
+- Hay un espacio de 8px entre cada una de las secciones azules dentro de la tarjeta.
+- El título de la tarjeta usa una fuente de 16px.
+- Hay 8px entre el texto del título y el borde de la sección del título.
+- La sección de contenido tiene un espacio de 16px en la parte superior e inferior, y 8px en cada lado.
+- Todo dentro de la sección `.button-container` está centrado, y tiene un padding de 8px.
+- El Botón Grande está centrado en su propia línea.
+- El Botón Grande tiene 24px de espacio en los lados y 8px en la parte superior e inferior..
