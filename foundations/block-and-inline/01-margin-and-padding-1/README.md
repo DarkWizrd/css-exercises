@@ -12,5 +12,5 @@ Usa esta sección para verificar tu trabajo. En _estos_ proyectos, tu objetivo n
 - Div Uno tiene 12px entre él y cualquier otro elemento en la página.
 - Hay un espacio de 48px entre Div Dos y Div Tres.
 - Div Tres está alineado a la derecha.
-- La alineación de Div Tres se logra usando `margin` (y no float, flexbox, etc.)...
+- La alineación de Div Tres se logra usando `margin` (y no float, flexbox, etc.).
   `

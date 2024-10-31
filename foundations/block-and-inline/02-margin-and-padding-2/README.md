@@ -17,4 +17,4 @@ Usa esta sección para verificar tu trabajo. En _estos_ proyectos, tu objetivo n
 - La sección de contenido tiene un espacio de 16px en la parte superior e inferior, y 8px en cada lado.
 - Todo dentro de la sección `.button-container` está centrado, y tiene un padding de 8px.
 - El Botón Grande está centrado en su propia línea.
-- El Botón Grande tiene 24px de espacio en los lados y 8px en la parte superior e inferior..
+- El Botón Grande tiene 24px de espacio en los lados y 8px en la parte superior e inferior.
